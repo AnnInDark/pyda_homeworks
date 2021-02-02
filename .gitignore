@@ -6,4 +6,4 @@ datatypes_cycles_1/.ipynb_checkpoints/datatypes_cycles_1-checkpoint.ipynb
 datatypes_cycles_2/.ipynb_checkpoints/datatypes_cycles_2-checkpoint.ipynb
 visualization/.ipynb_checkpoints/visualization-checkpoint.ipynb
 git_basics/.ipynb_checkpoints/git_basics-checkpoint.ipynb
-.idea/**
+.idea/**ls -l
